@@ -1,0 +1,12 @@
+README:
+Created by: Sean McAllister
+
+Compares two input files, looking for matches by line.
+
+Command line arguments:
+-1 = First input file.
+-2 = Second input file.
+-h = Help file.
+
+Output:
+match.txt, missingfrom1.txt, missingfrom2.txt
